@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>../shopping-cart</module>
+  	<module>../commons-utilities</module>
   </modules>
 </project>
